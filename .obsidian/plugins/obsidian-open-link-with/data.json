@@ -1,0 +1,12 @@
+{
+  "selected": "chrome-portable",
+  "custom": {
+    "chrome-portable": [
+      "C:/Users/johlet/Portable/PortableApps/GoogleChromePortable/GoogleChromePortable.exe"
+    ]
+  },
+  "modifierBindings": [],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": []
+}
