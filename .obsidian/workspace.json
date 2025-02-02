@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "292e8f5c9fec54c6",
+        "id": "c0afffb1fe17aafe",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e52aca93185bbf",
+            "id": "9827d48567a1a0b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,6 +89,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d4e52aca93185bbf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b336f63f72050dd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
             "id": "440c66de8faff0bd",
             "type": "leaf",
             "state": {
@@ -155,27 +182,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "b336f63f72050dd3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,5 +202,7 @@
     }
   },
   "active": "440c66de8faff0bd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
